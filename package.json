@@ -1,0 +1,34 @@
+{
+  "name": "box-sizing-border-box",
+  "version": "1.0.0",
+  "description": "Best practice for setting box-sizing: border-box, taken from css-tricks",
+  "main": "_index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strarsis/box-sizing-border-box.git"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "css",
+    "css3",
+    "sass",
+    "box-sizing",
+    "border-box",
+    "inheritance"
+  ],
+  "eyeglass": {
+    "name": "box-sizing-border-box",
+    "sassDir": "./",
+    "needs": "*",
+    "exports": false
+  },
+  "author": "strarsis <strarsis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strarsis/box-sizing-border-box/issues"
+  },
+  "homepage": "https://github.com/strarsis/box-sizing-border-box#readme"
+}
