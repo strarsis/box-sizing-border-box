@@ -1,5 +1,6 @@
 # box-sizing-border-box
-Best practice for setting box-sizing: border-box
+Best practice for setting box-sizing: border-box.
+From https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ .
 
 ## Installation
 `yarn add --dev box-sizing-border-box`
