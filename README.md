@@ -14,6 +14,6 @@ Best practice for setting box-sizing: border-box
 ````
 
 ### eyeglass (SCSS):
-````
+```scss
 @import 'box-sizing-border-box';
 ````
