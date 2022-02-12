@@ -30,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/strarsis/box-sizing-border-box/issues"
   },
-  "homepage": "https://github.com/strarsis/box-sizing-border-box#readme"
+  "homepage": "https://github.com/strarsis/box-sizing-border-box#readme",
+  "exports": {
+    "import": "./index.scss",
+    "require": "./index.scss"
+  }
 }
