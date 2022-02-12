@@ -3,9 +3,15 @@ Best practice for setting box-sizing: border-box.
 
 From https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ .
 
+
 ## Installation
-`yarn add --dev box-sizing-border-box`
+
+Using `npm`:
 `npm install --save-dev box-sizing-border-box`
+
+Using `yarn`:
+`yarn add --dev box-sizing-border-box`
+
 
 ## What's inside?
 See https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ .
@@ -20,6 +26,7 @@ html {
   box-sizing: inherit;
 }
 ````
+
 
 ## Usage
 
