@@ -2,7 +2,12 @@
   "name": "box-sizing-border-box",
   "version": "1.2.0",
   "description": "Best practice for setting box-sizing: border-box, taken from css-tricks",
-  "main": "_index.scss",
+  "main": "./index.css",
+  "exports": {
+    ".": "./index.css",
+    "css": "./index.css",
+    "scss": "./index.scss"
+  }
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,6 +20,7 @@
     "css",
     "css3",
     "sass",
+    "scss",
     "box-sizing",
     "border-box",
     "inheritance"
@@ -30,9 +36,5 @@
   "bugs": {
     "url": "https://github.com/strarsis/box-sizing-border-box/issues"
   },
-  "homepage": "https://github.com/strarsis/box-sizing-border-box#readme",
-  "exports": {
-    "import": "./index.scss",
-    "require": "./index.scss"
-  }
+  "homepage": "https://github.com/strarsis/box-sizing-border-box#readme"
 }
