@@ -32,7 +32,7 @@ html {
 
 ### webpack (SCSS) + node_modules loader
 ```scss
-@import "~box-sizing-border-box/index";
+@import "~box-sizing-border-box";
 ````
 
 ### eyeglass (SCSS):
