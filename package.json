@@ -1,6 +1,6 @@
 {
   "name": "box-sizing-border-box",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Best practice for setting box-sizing: border-box, taken from css-tricks",
   "main": "index.scss",
   "unpkg": "index.css",
