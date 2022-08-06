@@ -2,7 +2,9 @@
   "name": "box-sizing-border-box",
   "version": "1.3.0",
   "description": "Best practice for setting box-sizing: border-box, taken from css-tricks",
-  "main": "./index.css",
+  "main": "index.scss",
+  "unpkg": "index.css",
+  "style": "index.css",
   "exports": {
     ".": "./index.css",
     "css": "./index.css",
